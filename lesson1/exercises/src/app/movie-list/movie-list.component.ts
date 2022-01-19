@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MovieListComponent implements OnInit {
    movies = ['The Manchurian Candidate', 'Oceans 8','Titanic','Encanto'];
-
+   image1 = "https://c.tenor.com/jUVkDun21CkAAAAC/popcorn-panda.gif";
    constructor() { }
 
    ngOnInit() {

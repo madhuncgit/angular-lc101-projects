@@ -1,5 +1,5 @@
 .movies{
-    color:red;
+    color:maroon;
     border: 1px black solid ;
 }
 .movies h3{
@@ -7,4 +7,8 @@
 }
 .movies li{
     font-size: larger;
+}
+img{
+height: 200px;
+width: auto;
 }

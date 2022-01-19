@@ -9,3 +9,7 @@
 .chores li{
     font-style: italic;
 }
+.chores{
+    color:maroon;
+    border: 1px black solid ;
+}
