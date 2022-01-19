@@ -1,0 +1,10 @@
+.movies{
+    color:red;
+    border: 1px black solid ;
+}
+.movies h3{
+    text-align: center;
+}
+.movies li{
+    font-size: larger;
+}
